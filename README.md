@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShaikhFarhan882
-- 👀 I’m interested in Java and Android.
-- 🌱 I’m currently learning Android Development.
+- 👀 I’m interested in Technology.
+- 🌱 I’m currently learning Native Android Development.
 - 💞️ I’m looking to collaborate on Android Projects
 
 <!---
